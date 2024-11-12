@@ -1,2 +1,56 @@
-Hi, I'm Abdullah! 👋 Full-Stack Developer & Tech Enthusiast
-<br> 🔬 I’m currently focused on enhancing my backend skills, particularly with Node.js, Express, and PostgreSQL. <br> 🎓 I hold a degree in Biomedical Science from Keele University, and I have a passion for tech and continuous learning. <br> 💻 I've recently completed a front-end developer internship, specializing in building responsive and interactive UIs with React. <br> 📚 I’m currently exploring advanced concepts in SQL and Web3 development. <br> 💬 Ask me anything [here](https://github.com/abdullah/abdullah/issues) — I’m always excited to connect! <br> 📫 Reach me at: [email@example.com](mailto:email@example.com) <hr> <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2> <br> <p align="center"> <code><img title="JavaScript" height="25" src="images/javascript.svg"></code> <code><img title="React" height="25" src="images/react-original.svg"></code> <code><img title="Node.js" height="25" src="images/nodejs.svg"></code> <code><img title="Express" height="25" src="images/express.svg"></code> <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code> <code><img title="HTML5" height="25" src="images/html5.svg"></code> <code><img title="CSS" height="25" src="images/css.svg"></code> <code><img title="AWS S3" height="25" src="images/aws.svg"></code> <code><img title="Git" height="25" src="images/git-original.svg"></code> </p> <hr> <h2 align="center">⚡ Stats ⚡</h2> <br> <div align="center"> <a href="https://github.com/abdullah/github-readme-streak-stats"> <img align="left" width="390" src="https://streak-stats.demolab.com/?user=abdullah&theme=react&border=61dafb&hide_border=true" alt="abdullah-streak-stats" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=abdullah&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="abdullah-stats" /> </a> </div> <br><br><br><br><br><br><br><br><br> <div align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah&hide=html,css&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" /> </a> </div> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> <hr> <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2> <br> <div width="100%" align="center"> <a align="left" href="https://github.com/abdullah/DreamTravel" title="DreamTravel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah&repo=DreamTravel&theme=react&border_color=61dafb&border_radius=10"></a> <a align="right" href="https://github.com/abdullah/CartSwipe" title="CartSwipe"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah&repo=CartSwipe&theme=react&border_color=61dafb&border_radius=10"></a> </div> <br/><br/><br/><br/><br/><br/> <div width="100%" align="center"> <a align="left" href="https://github.com/abdullah/StudyBuddy" title="StudyBuddy"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah&repo=StudyBuddy&theme=react&border_color=61dafb&border_radius=10"></a> </div> <br><br><br> <h4 align="center"> <a href="https://github.com/abdullah?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a> </h4>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abduelamin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abduelamin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+###
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+###
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+###
+<br clear="both">
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/abduelamin/DreamTravel" title="Dream Travel"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+###
