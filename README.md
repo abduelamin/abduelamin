@@ -63,26 +63,6 @@
 
 ---
 
-<h2 align="center">👨‍💻 Projects I'm Proud Of 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/abduelamin/DreamTravel" title="DreamTravel">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abduelamin&repo=DreamTravel&theme=react&border_color=61dafb&border_radius=10&show_owner=false">
-  </a>
-  <a align="right" href="https://github.com/abduelamin/CartSwipe" title="CartSwipe">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abduelamin&repo=CartSwipe&theme=react&border_color=61dafb&border_radius=10&show_owner=false">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/abduelamin/Study-Buddy" title="Study Buddy">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abduelamin&repo=Study-Buddy&theme=react&border_color=61dafb&border_radius=10&show_owner=false">
-  </a>
-  <a align="right" href="https://github.com/abduelamin/InvAI" title="Inv-AI">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abduelamin&repo=InvAI&theme=react&border_color=61dafb&border_radius=10&show_owner=false">
-  </a>
-</div>
-
 
 <br/><br/><br/><br/><br/><br/>
 
